@@ -1,4 +1,4 @@
-**Amazon Black Friday Sales Analysis**
+**Black Friday Sales Analysis**
 This project explores and analyzes Amazon Black Friday sales data to uncover insights into customer demographics, purchasing behavior, and spending trends. By leveraging Python libraries such as Pandas and Matplotlib, this analysis provides valuable insights for understanding the impact of age, gender, marital status, occupation, and city category on consumer spending patterns.
 
 **Key Highlights**
